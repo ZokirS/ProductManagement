@@ -7,7 +7,7 @@ This API is part of the Product Management system, providing endpoints for manag
 
 ## Prerequisites
 
-- .NET 7.0 SDK
+- .NET 8.0 SDK
 - A configured and running SQL Server database (or an in-memory database for testing)
 - Visual Studio 2022 (or later) or any other preferred IDE
 
